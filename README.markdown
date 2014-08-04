@@ -1,3 +1,7 @@
+### THIS IS STOLEN REPO FROM https://github.com/astrails/dotvim
+### I am just adding my stuff in my way. 
+
+
 ## Dotvim
 
 ### An attempt at The Ultimate Vim Configuration™ ;)
